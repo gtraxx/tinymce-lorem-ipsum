@@ -1,4 +1,4 @@
-Plugin loremipsum for TinyMCE 5
+Plugin lorem ipsum for TinyMCE 5
 ======================
 
 Insert Lorem Ipsum paragraph
@@ -36,7 +36,7 @@ tinymce.init({
 
 <pre>
 This file is part of tinyMCE.
-YouTube for tinyMCE
+Lorem Ipsum for tinyMCE
 Copyright (C) 2011 - 2019  Gerits Aurelien <aurelien[at]magix-cms[dot]com>
 
 Redistributions of files must retain the above copyright notice.
@@ -57,5 +57,5 @@ along with this program.  If not, see .
 
 Do not edit or add to this file if you wish to upgrade jimagine to newer
 versions in the future. If you wish to customize jimagine for your
-needs please refer to magix-dev.be for more information.
+needs please refer to magix-cms.com for more information.
 </pre>
