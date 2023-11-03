@@ -1,4 +1,4 @@
-Plugin lorem ipsum for TinyMCE 5
+Plugin lorem ipsum for TinyMCE 5 & 6
 ======================
 
 Insert Lorem Ipsum paragraph
