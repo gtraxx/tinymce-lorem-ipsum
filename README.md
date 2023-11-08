@@ -37,7 +37,7 @@ tinymce.init({
 <pre>
 This file is part of tinyMCE.
 Lorem Ipsum for tinyMCE
-Copyright (C) 2011 - 2019  Gerits Aurelien <aurelien[at]magix-cms[dot]com>
+Copyright (C) 2011 - 2023  Gerits Aurelien <aurelien[at]magix-cms[dot]com>
 
 Redistributions of files must retain the above copyright notice.
 This program is free software: you can redistribute it and/or modify
